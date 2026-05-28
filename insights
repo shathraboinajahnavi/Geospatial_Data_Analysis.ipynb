@@ -1,0 +1,8 @@
+print("""
+KEY INSIGHTS:
+
+1. Certain regions show high sales concentration.
+2. Some areas have high demand but low presence.
+3. These regions are potential expansion zones.
+4. Location plays a major role in business performance.
+""")
