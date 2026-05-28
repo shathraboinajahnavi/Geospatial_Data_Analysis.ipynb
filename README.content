@@ -1,0 +1,19 @@
+# Geospatial Data Analysis
+
+## Objective
+Analyze sales data geographically to find business expansion opportunities.
+
+## Tools Used
+- Python
+- Pandas
+- Folium
+- Matplotlib
+- Seaborn
+
+## Analysis Performed
+- Location-based visualization
+- Sales distribution mapping
+- High demand region detection
+
+## Outcome
+Identified regions with high sales and areas for potential business expansion.
